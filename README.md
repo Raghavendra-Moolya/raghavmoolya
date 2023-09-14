@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghavendra R</h1>
+<h1 align="center">Hi 👋, I'm Raghavendra Radhakrishnan</h1>
 <h3 align="center">I am a passionate BCA student working in Moolya Software Testing in Bangalore, India</h3>
 
 - 🔭 I’m currently working on **Flask**
