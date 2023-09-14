@@ -10,8 +10,6 @@
 - 💬 Ask me about **HTML and CSS**
 
 - 📫 How to reach me **raghavendra8076@gmail.com, raghavendra.radhakrishnan@moolya.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
